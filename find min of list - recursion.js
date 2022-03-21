@@ -1,4 +1,5 @@
 //finding min value of a list using recursion
+//divide list in to 2 -> find the min of each sublist(recursion) -> compare the two mins to find the absolute min
 
 let numbers = [11,2,4,14,88];
 function getMin(numList) {
