@@ -1,3 +1,5 @@
+// we use two pointer approach
+
 let numbers = [1,2,5,7,10,13,14,20,23,24];
 let targetVal = 44;
 function checkSum(numList, target) {
