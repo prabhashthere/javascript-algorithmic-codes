@@ -19,4 +19,4 @@ console.log(processList(scores));
 
 
 //Sort an array with the failing grades at the beginning in ascending order,
-//followed by the passing grades. order doesn't matter for the passing grades
+//followed by the passing grades. Order doesn't matter for the passing grades.
