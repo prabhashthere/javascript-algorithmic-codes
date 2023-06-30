@@ -1,2 +1,2 @@
 # javascript-algorithmic-codes
-solutions for algorithmic problems in javascript
+solutions for algorithmic problems in javascript.
